@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#C7C7C7</color>
+    <color name="newBlue">#2B263B</color>
+    <color name="newPurple">#6C31ED</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple356">#380356</color>
+    <color name="purple078">#6b0078</color>
+    <color name="purple09c">#93009c</color>
+    <color name="purple0b2">#b000b2</color>
+    <color name="blueCard">#152039</color>
+    <color name="androidGreen">#3DDC84</color>
+</resources>
