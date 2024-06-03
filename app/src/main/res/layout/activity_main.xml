@@ -14,7 +14,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/businesscard_v10"/>
+        app:srcCompat="@drawable/businesscard_v4_pt_up"/>
 
     <Button
         android:id="@+id/btn_contato"
