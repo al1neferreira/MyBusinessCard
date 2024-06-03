@@ -1,5 +1,5 @@
 # My Business Card
-Aplicativo Android nativo como cartão de visitas 
+Aplicativo Android nativo desenvolvido como cartão de visitas. 
 
 ## :camera_flash: Screenshots
 
