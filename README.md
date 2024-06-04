@@ -6,8 +6,8 @@ Aplicativo Android nativo desenvolvido como cartão de visitas.
 <img src="app/src/Screens/front.png" width="320">&emsp;<img src="app/src/Screens/back.png" width="320">
 
 ## :movie_camera: Video
-<img src="app/src/Screens/my_business_card-whatsapp.gif" width="200">&emsp;<img src="app/src/Screens/my_business_card-email.gif" width="200">
-&emsp;<img src="app/src/Screens/my_business_card-github.gif" width="200">&emsp;<img src="app/src/Screens/my_business_card-linkedin.gif" width="200">
+<img src="app/src/Screens/my_business_card-whatsapp.gif" width="180">&emsp;<img src="app/src/Screens/my_business_card-email.gif" width="180">
+&emsp;<img src="app/src/Screens/my_business_card-github.gif" width="180">&emsp;<img src="app/src/Screens/my_business_card-linkedin.gif" width="180">
 
 ## Tecnologias
 * Kotlin
